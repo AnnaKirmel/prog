@@ -1,0 +1,5 @@
+ID,type,name,range,container,weight,speed
+123456,firearms,KK-34,1100,60,5,3.5
+666111,firearms,AK-47,1000,30,3.63,40
+212133,firearms,AK-45,1010,50,4.23,45
+366677,firearms,GD-76,5000,60,5,35

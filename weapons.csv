@@ -1,0 +1,6 @@
+id,type,name,range,container,weight,speed
+1,firearms,bow,100.0,1222,2.5,10.0
+2,firearms,sword,5.0,22222,4.0,3.0
+3,firearms,crossbow,150.0,222223,3.0,8.0
+
+
